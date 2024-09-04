@@ -1,0 +1,22 @@
+{
+    "title": "我要吃麦当劳",
+    "confirmButtonText": "确定",
+    "backgroundImage": {
+        "default": "./data/default.jpg",
+        "win": "./data/m.jpg",
+        "fail": "./data/die.jpg"
+    },
+    "audio": {
+        "win": "./data/m.mp3",
+        "fail": "./data/die.mp3"
+    },
+    "scrollingText": {
+        "win": "我要吃麦当劳",
+        "fail": "根本你不懂得爱我"
+    },
+    "alertImage": "./data/fatcat.jpg",
+    "alertPlaceholder": "臭人机我要吃“麦当劳”",
+    "alertTitle": "我要吃“麦当劳”",
+    "validationMessage": "输入“麦当劳”",
+    "correctInput": "麦当劳"  
+}
